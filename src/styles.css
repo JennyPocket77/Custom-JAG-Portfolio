@@ -10,3 +10,7 @@ h1 {
     font-family: 'Marck Script', cursive;
     text-align: center;
 }
+
+i {
+    min-width: 200px;
+}
