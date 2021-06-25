@@ -1,12 +1,12 @@
 /* font-family: 'Marck Script', cursive;
 font-family: 'Poiret One', cursive; */
 
+body {
+   font-family: 'Poiret One', cursive;  
+   text-align: center;
+}
+
 h1 {
     font-family: 'Marck Script', cursive;
     text-align: center;
-}
-
-h2 {
-   font-family: 'Poiret One', cursive;  
-   text-align: center;
 }
