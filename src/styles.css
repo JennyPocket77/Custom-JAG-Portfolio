@@ -1,11 +1,15 @@
 :root {
     --branding-color: #D8FFFE;
     --heading-font-family:'Marck Script', cursive;
+    --default-font-family: 'Poiret One', cursive;  
     --box-shadow: 5px 5px 3px 1px rgba(99, 98, 98, 0.2);
 }
 
+body{
+    font-family: var(--default-font-family);
+}
+
 h2, h3, h4 {
-   font-family: 'Poiret One', cursive;  
    line-height: 1.5;
    text-align: center;
 }
