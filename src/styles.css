@@ -68,9 +68,10 @@ footer {
     max-width: 77px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 768px) {
     h1 {
         font-size: 34px;
+        line-height: 2;
     }
 
     h2 {
@@ -84,6 +85,11 @@ footer {
     .btn-branding {
         padding: 10px;
         text-align: center;
+    }
+
+    .hero {
+        padding: 80px 20px;
+        line-height: 1.5;
     }
 }
 
