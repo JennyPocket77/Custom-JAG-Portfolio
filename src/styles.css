@@ -1,7 +1,7 @@
 /* font-family: 'Marck Script', cursive;
 font-family: 'Poiret One', cursive; */
 
-body {
+h2, h3, h4 {
    font-family: 'Poiret One', cursive;  
    text-align: center;
 }
