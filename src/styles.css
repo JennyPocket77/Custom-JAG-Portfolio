@@ -1,3 +1,9 @@
+:root {
+    --branding-color: #D8FFFE;
+    --heading-font-family:'Marck Script', cursive;
+    --box-shadow: 10px 10px 5px 5px rgba(65, 64, 64, 0.596);
+}
+
 h2, h3, h4 {
    font-family: 'Poiret One', cursive;  
    line-height: 1.5;
@@ -5,7 +11,7 @@ h2, h3, h4 {
 }
 
 h1 {
-    font-family: 'Marck Script', cursive;
+    font-family: var(--heading-font-family);
     font-size: 50px;
     line-height: 70px;
     margin-top: 100px;
@@ -17,7 +23,7 @@ h4 {
 }
 
 footer {
-    margin-top: 300px;
+    margin-top: 100px;
     margin-bottom: 200px;
 }
 
@@ -28,12 +34,15 @@ footer {
 }
 
 .btn-branding {
-    background-color: #5CF6BF;
+    background-color: var(--branding-color);
+    border: 1px solid;
+    border-color: #79c9c6;
     border-radius: 5px;
+    box-sizing: var(--box-shadow);
     color: rgb(44, 71, 95);
     line-height: 27px;
     margin-bottom: 20px;
-    padding: 12px 20px;
+    padding: 15px 30px;
 }
 
 .email-link {
