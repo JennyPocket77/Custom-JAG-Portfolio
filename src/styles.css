@@ -1,5 +1,6 @@
-/* font-family: 'Marck Script', cursive;
-font-family: 'Poiret One', cursive; */
+body {
+background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
 
 h2, h3, h4 {
    font-family: 'Poiret One', cursive;  
@@ -8,10 +9,11 @@ h2, h3, h4 {
 
 h1 {
     font-family: 'Marck Script', cursive;
+    font-size: 50px;
     margin-top: 100px;
     text-align: center;
 }
 
 footer {
-    margin-top: 200px;
+    margin-top: 400px;
 }
