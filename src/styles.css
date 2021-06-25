@@ -8,9 +8,14 @@ h2, h3, h4 {
 
 h1 {
     font-family: 'Marck Script', cursive;
+    margin-top: 100px;
     text-align: center;
 }
 
 i {
     min-width: 200px;
+}
+
+footer {
+    margin-top: 200px;
 }
