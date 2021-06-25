@@ -26,6 +26,7 @@ h2 {
 
 p {
     font-size: 15px;
+    line-height: 1.7;
     margin: 20px 40px;
     text-align: center;
 }
@@ -51,6 +52,7 @@ footer {
     line-height: 27px;
     margin-bottom: 20px;
     padding: 15px 30px;
+    text-align: center;
 }
 
 .email-link {
