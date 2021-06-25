@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Croissant"
+		},
+		{
+			"path": "..\\JAG-Front End Developer"
+		},
+		{
+			"path": "..\\New-Repository-Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JAG-Front End Developer"
+	}
+}
