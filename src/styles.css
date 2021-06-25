@@ -1,5 +1,6 @@
 h2, h3, h4 {
    font-family: 'Poiret One', cursive;  
+   line-height: 2;
    text-align: center;
 }
 
@@ -19,6 +20,20 @@ footer {
 }
 
 .hero {
-background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
-text-align: center;
+    background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+    text-align: center;
+}
+
+.btn {
+    background-color: #5CF6BF;
+    border-radius: 6px;
+    color: rgb(44, 71, 95);
+    padding: 18px 30px;
+    margin-bottom: 20px;
+}
+
+.email-link {
+    font-size: 30px;
+    color: #000034;
+    text-decoration: none;
 }
