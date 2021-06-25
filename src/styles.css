@@ -24,11 +24,14 @@ h2 {
     font-size: 30px;
 }
 
+h3 {
+    margin-top: 50px;
+}
+
 p {
     font-size: 15px;
-    line-height: 1.7;
-    margin: 20px 40px;
-    text-align: center;
+    line-height: 30px;
+    margin: 20px 10px;
 }
 
 footer {
@@ -50,7 +53,7 @@ footer {
     box-shadow: var(--box-shadow);
     color: rgb(44, 71, 95);
     line-height: 27px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     padding: 15px 30px;
     text-align: center;
 }
