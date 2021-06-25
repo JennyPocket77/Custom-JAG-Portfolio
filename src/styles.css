@@ -1,7 +1,7 @@
 :root {
     --branding-color: #D8FFFE;
     --heading-font-family:'Marck Script', cursive;
-    --box-shadow: 10px 10px 5px 5px rgba(65, 64, 64, 0.596);
+    --box-shadow: 5px 5px 3px 1px rgba(99, 98, 98, 0.2);
 }
 
 h2, h3, h4 {
@@ -38,7 +38,7 @@ footer {
     border: 1px solid;
     border-color: #79c9c6;
     border-radius: 5px;
-    box-sizing: var(--box-shadow);
+    box-shadow: var(--box-shadow);
     color: rgb(44, 71, 95);
     line-height: 27px;
     margin-bottom: 20px;
