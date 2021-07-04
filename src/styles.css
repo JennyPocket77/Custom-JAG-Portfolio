@@ -103,8 +103,16 @@ footer .social-links a:hover {
         font-size: 20px;
     }
 
+    p {
+        font-size: 12px;
+    }
+
     a {
         font-size: 20px;
+    }
+
+    p a {
+        font-size: 12px;
     }
     
     .btn-branding {
