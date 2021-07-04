@@ -36,7 +36,22 @@ p {
 
 footer {
     margin-top: 100px;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
+}
+
+footer .social-links a {
+    margin: 15px 15px;
+    color: var(--branding-color);
+    background-color: #d6d5d5;
+    padding: 10px 20px;
+    font-size: 45px;
+    border-radius: 50%;
+    transition: all 150ms ease-in-out;
+}
+
+footer .social-links a:hover {
+    color: #d6d5d5;
+    background-color: var(--branding-color);
 }
 
 .hero {
