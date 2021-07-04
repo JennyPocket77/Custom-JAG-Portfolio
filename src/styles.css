@@ -85,7 +85,11 @@ footer {
     }
 
     h3 {
-        font-size: 18px;
+        font-size: 20px;
+    }
+
+    a {
+        font-size: 20px;
     }
     
     .btn-branding {
