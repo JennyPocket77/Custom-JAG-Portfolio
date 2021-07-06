@@ -71,12 +71,14 @@ footer .social-links a:hover {
 
 .hero {
     background-image: linear-gradient(-222deg, #FFFEFF 0%, #D7FFFE 100%);
-    padding: 130px 20px;
+    margin-top: 30px;
+    padding: 120px 20px;
     text-align: center;
 }
 
 .about-section {
     background-image: linear-gradient(-222deg, #FFFEFF 0%, #D7FFFE 100%);
+    margin-top: 50px;
     padding: 80px 20px;
     text-align: center;
 }
@@ -110,7 +112,6 @@ footer .social-links a:hover {
 }
 
 .laptop {
-    display: block;
     max-width: 800px;
     max-height: 800px;
 }
@@ -125,7 +126,7 @@ footer .social-links a:hover {
     max-height: 800px;
 }
 
-.skills {
+.skills-container {
     margin: 15px 15px;
     color: #757474;
     padding: 15px 25px;
