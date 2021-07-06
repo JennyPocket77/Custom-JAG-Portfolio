@@ -91,6 +91,42 @@ footer .social-links a:hover {
     max-width: 77px;
 }
 
+.close {
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.laptop {
+    display: block;
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.trolly {
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.flight {
+    max-width: 800px;
+    max-height: 800px;
+}
+
+.skills-container {
+    margin: 10px 10px;
+    color: var(--branding-color);
+    background-color: #d6d5d5;
+    padding: 5px 10px;
+    font-size: 30px;
+    border-radius: 50%;
+    transition: all 150ms ease-in-out;
+}
+
+.certificates-container {
+    max-width: 100px;
+    max-height: 100px;
+}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 34px;
